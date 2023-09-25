@@ -1,0 +1,16 @@
+# Travel plan
+- date: 2023-09-29
+  what: fly from Zurich to New Orleans
+  where: New Orleans
+- date: 2023-09-30
+  what: stay in new Orleans
+  where: New Orleans
+  accom: Interncontinental
+- date: 2023-10-01
+  what: stay again in new Orleans
+  where: New Orleans
+  accom: Interncontinental
+- date: 2023-10-02
+  what: pick up Harley and drive to Birmingham
+  where: New Orleans, Birmingham
+  

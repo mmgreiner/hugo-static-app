@@ -1,4 +1,7 @@
 baseURL : http://example.org/
 languageCode : en-us
-title : "My New Hugo Site"
+title : "Markus Country Road Trip"
 theme : ananke
+tableOfContents : true
+
+

@@ -1,0 +1,8 @@
+baseURL =  'http://example.org/'
+languageCode = 'en-us'
+title = "Country Road trip"
+description = "My trip through west virgina"
+theme = 'ananke'
+
+tableOfContents = true
+
