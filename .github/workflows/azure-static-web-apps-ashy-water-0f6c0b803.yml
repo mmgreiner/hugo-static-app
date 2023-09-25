@@ -31,7 +31,7 @@ jobs:
           api_location: "" # Api source code path - optional
           output_location: "public" # Built app content directory - optional
           # Greiner: added next line based on https://stackoverflow.com/questions/68935283/staticwebapp-config-json-not-working-with-github-azure-static-web-site
-          config_file_location: "/"
+          config_file_location: ""
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
